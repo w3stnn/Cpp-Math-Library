@@ -1,5 +1,5 @@
 ### Proje İçeriği
-Bu kütüphane, temel lineer cebir işlemlerini C++ ile gerçekleştirmek için geliştirilmektedir.
+Bu kütüphane, temel lineer cebir işlemlerini C ve C++ ile gerçekleştirmek için geliştirilmektedir.
 
 **Desteklenen İşlemler:**
 * $n \times n$ Matris Determinantı Hesaplama
